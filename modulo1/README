@@ -1,0 +1,17 @@
+**(Semanas 1-3)**
+
+**Objetivo:** Solidificar los cimientos. Aunque no necesitas ser un matemático puro, debes entender el *lenguaje* en el que piensan las máquinas. Tu experiencia en Python nos da una ventaja, pero ahora lo usaremos para la ciencia de datos.
+
+- **Semana 1: Python para la Ciencia de Datos.**
+    - [ ]  **Teoría:** Refuerza tus conocimientos de Python, pero con un enfoque en la computación científica.
+    - [ ]  **Práctica:** Domina **NumPy** para operaciones con arrays (el "ladrillo" de los datos) y **Pandas** para la manipulación de datos (la "viga maestra").
+    - [ ]  **Proyecto 1.1:** Toma un dataset de texto simple (ej. reseñas de películas) y usa Pandas para limpiarlo, contar la frecuencia de palabras y prepararlo para el análisis.
+- **Semanas 2-3: Matemática Intuitiva para Machine Learning.**
+    - **Teoría:**
+        - [ ]  **Álgebra Lineal:** Entiende qué son los vectores y las matrices. No se trata de resolver ecuaciones a mano, sino de comprender que una palabra o una frase se puede representar como un vector en un espacio.
+        - [ ]  **Cálculo:** Comprende el concepto de *gradiente* o pendiente. Es la idea central detrás de cómo un modelo "aprende" (sabe en qué dirección mejorar).
+        - [ ]  **Probabilidad y Estadística:** Los LLMs son modelos probabilísticos. Debes entender conceptos como distribuciones de probabilidad para saber por qué el modelo elige una palabra sobre otra.
+    - **Recursos Clave:**
+        - [ ]  **3Blue1Brown:** Busca sus series "Essence of Linear Algebra" y "Essence of Calculus" en YouTube. Son la mejor explicación visual que existe.
+        - [ ]  **Khan Academy:** Para reforzar cualquier concepto que no quede claro.
+    - [ ]  **Proyecto 1.2:** Usando NumPy, representa frases como vectores simples (usando una técnica llamada *Bag-of-Words*) y calcula la similitud entre ellas (usando el producto punto). Verás la matemática en acción.
